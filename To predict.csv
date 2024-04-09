@@ -1,0 +1,11 @@
+﻿id,age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp_var_rate,cons_price_index,cons_conf_index,lending_rate3m,nr_employed
+1,31,admin.,married,professional.course,no,no,no,telephone,may,mon,195,1,979,0,nonexistent,1.1,94.93,-35.12,5.09,5310.39
+2,53,admin.,married,university.degree,unknown,no,no,cellular,aug,tue,452,1,979,0,nonexistent,1.4,96.15,-35.66,5.03,5473.82
+3,39,unemployed,single,basic.4y,no,no,no,cellular,jun,tue,352,1,1045,0,nonexistent,-2.9,91.19,-42.51,1.24,5248.79
+4,34,technician,married,professional.course,no,yes,yes,telephone,may,wed,2201,0,617,2,failure,1.1,92.65,-44.09,2.21,4964.38
+5,45,admin.,married,university.degree,unknown,no,yes,cellular,aug,wed,236,0,1012,0,nonexistent,1.4,96.06,-35.16,4.91,5086.94
+6,33,admin.,married,high.school,no,no,no,cellular,aug,fri,4031,3,925,3,failure,-2.9,92.47,-43.3,3.36,5203.22
+7,34,admin.,divorced,high.school,no,unknown,unknown,cellular,aug,fri,3185,14,533,3,failure,1.4,93.64,-26.27,4.41,4914.8
+8,25,admin.,married,professional.course,no,yes,no,cellular,may,thu,2363,0,792,5,success,-1.8,90.43,-36.75,4.05,5114.3
+9,57,retired,married,high.school,no,yes,no,telephone,may,tue,576,5,989,0,nonexistent,1.1,89.38,-37.96,4.95,5284.43
+10,44,blue-collar,married,basic.9y,unknown,yes,no,cellular,apr,fri,549,0,1001,1,failure,-1.8,90.18,-46.2,1.45,5155.19
